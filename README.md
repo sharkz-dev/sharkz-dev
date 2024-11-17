@@ -7,7 +7,7 @@
 ```python
 class SoftwareEngineer:
     def __init__(self):
-        self.name = "Tu_Nombre"
+        self.name = "SharKz-Dev"
         self.role = "Desarrollador Full Stack"
         self.languages = ["Python", "Java"]
         self.code = ["JavaScript", "TypeScript", "HTML", "CSS"]
@@ -84,4 +84,4 @@ Software de escritorio para análisis de datos con Python y PyQt.
 ```
 
 ---
-⭐️ From [Tu_Usuario](https://github.com/Tu_Usuario)
+⭐️ From [SharKz-Dev](https://github.com/SharKz-Dev)
