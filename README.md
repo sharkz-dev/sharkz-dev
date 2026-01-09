@@ -4,7 +4,7 @@
   <img src="/api/placeholder/850/300" alt="banner" />
 </div>
 
-<br>
+## 
 ```python
 class SoftwareEngineer:
     def __init__(self):
@@ -21,15 +21,11 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-<br>
-
 ## 🚀 Sobre mí
 
 Soy un apasionado desarrollador de software con experiencia en múltiples tecnologías y plataformas. Me especializo en:
 
 🌐 Desarrollo Web (Frontend & Backend) · 📱 Aplicaciones Móviles · 🖥️ Software de Escritorio · ☁️ Soluciones Cloud
-
-<br>
 
 ## 🛠️ Mi Stack Tecnológico
 
@@ -52,16 +48,12 @@ Soy un apasionado desarrollador de software con experiencia en múltiples tecnol
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br>
-
 ## 📊 Estadísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SharKz-Dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharKz-Dev&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
-
-<br>
 
 ## 📈 Actividad
 ```text
