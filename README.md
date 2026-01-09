@@ -3,6 +3,8 @@
 <div align="center">
   <img src="/api/placeholder/850/300" alt="banner" />
 </div>
+
+<br>
 ```python
 class SoftwareEngineer:
     def __init__(self):
@@ -19,42 +21,47 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
+<br>
+
 ## 🚀 Sobre mí
 
 Soy un apasionado desarrollador de software con experiencia en múltiples tecnologías y plataformas. Me especializo en:
 
-- 🌐 Desarrollo Web (Frontend & Backend)
-- 📱 Aplicaciones Móviles
-- 🖥️ Software de Escritorio
-- ☁️ Soluciones Cloud
+🌐 Desarrollo Web (Frontend & Backend) · 📱 Aplicaciones Móviles · 🖥️ Software de Escritorio · ☁️ Soluciones Cloud
+
+<br>
 
 ## 🛠️ Mi Stack Tecnológico
 
-### Lenguajes de Programación
+**Lenguajes de Programación**
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Desarrollo Web
+**Desarrollo Web**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Herramientas
+**Herramientas**
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<br>
 
 ## 📊 Estadísticas
 
 <div align="center">
-  <img src="/api/placeholder/495/200" alt="GitHub Stats" />
-  <img src="/api/placeholder/495/200" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SharKz-Dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharKz-Dev&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
+
+<br>
 
 ## 📈 Actividad
 ```text
@@ -65,4 +72,6 @@ Soy un apasionado desarrollador de software con experiencia en múltiples tecnol
 
 ---
 
-⭐️ From [SharKz-Dev](https://github.com/SharKz-Dev)
+<div align="center">
+  ⭐️ From <a href="https://github.com/SharKz-Dev">SharKz-Dev</a>
+</div>
