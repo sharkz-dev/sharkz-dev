@@ -50,8 +50,6 @@ Soy un apasionado desarrollador de software con experiencia en múltiples tecnol
 🌙 Noche     ██████░░░░░░░░░░░░░░░░   26.25%
 ```
 
----
-
 <div align="center">
   ⭐️ From <a href="https://github.com/SharKz-Dev">SharKz-Dev</a>
 </div>
