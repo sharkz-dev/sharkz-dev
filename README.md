@@ -1,9 +1,5 @@
 # 👨‍💻 ¡Hola, Mundo! 
 
-<div align="center">
-  <img src="/api/placeholder/850/300" alt="banner" />
-</div>
-
 ## 
 ```python
 class SoftwareEngineer:
