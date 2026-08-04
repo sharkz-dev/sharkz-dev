@@ -1,6 +1,5 @@
 # 👨‍💻 ¡Hola, Mundo! 
 
-## 
 ```python
 class SoftwareEngineer:
     def __init__(self):
@@ -43,13 +42,6 @@ Soy un apasionado desarrollador de software con experiencia en múltiples tecnol
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 📊 Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SharKz-Dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharKz-Dev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
 
 ## 📈 Actividad
 ```text
