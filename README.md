@@ -43,14 +43,6 @@ Desarrollo Web (Frontend & Backend) · Aplicaciones Móviles · Software de Escr
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
-## Actividad
-
-```text
-Mañana    ████████████░░░░░░░░░░   48.75%
-Tarde     ██████░░░░░░░░░░░░░░░░   25.00%
-Noche     ██████░░░░░░░░░░░░░░░░   26.25%
-```
-
 <div align="center">
   From <a href="https://github.com/SharKz-Dev">SharKz-Dev</a>
 </div>
